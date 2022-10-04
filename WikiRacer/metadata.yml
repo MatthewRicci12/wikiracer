@@ -1,0 +1,12 @@
+---
+:id: 74973502
+:submitters:
+- :name: Matthew Bernard Ricci
+  :email: matthewricci1@email.arizona.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-04-15 17:43:04.692581000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-04-15 10:43:04.692581000 Z
+:status: processed
+:score: 5.0
